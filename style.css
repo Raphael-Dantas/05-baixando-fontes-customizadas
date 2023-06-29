@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'star wars';
+    src: url('./fonts/soloistlaser1.ttf'),
+    url('./fonts/StarWars.ttf');    
+}
+@font-face {
+    font-family: 'Milky';
+    src: url('./fonts/MilkyNice.otf'),
+    url('./fonts/MilkyNice.ttf');
+}
+
+
+h1{
+    font-family: 'star wars', 'Courier New', Courier, monospace;
+
+    font-size: 25px;
+}
+
+p{
+    font-family: 'Milky';
+
+    font-size: small;
+}
